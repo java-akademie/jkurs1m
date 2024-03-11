@@ -1,5 +1,6 @@
 
-package ch.jmb.jkurs1.aufgaben.aufgabe2;
+package ch.jmb.jkurs1.aufgaben.aufgaben2;
+
 public class Prime {
 
     public static boolean isPrim(int x) {

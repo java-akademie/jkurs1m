@@ -1,5 +1,4 @@
-
-package ch.jmb.jkurs1.aufgaben.aufgabe1;
+package ch.jmb.jkurs1.aufgaben.aufgaben1;
 
 import ch.java_akademie.tools17.allg.MyTools;
 

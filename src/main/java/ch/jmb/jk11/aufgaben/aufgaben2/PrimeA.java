@@ -1,8 +1,9 @@
 
-package ch.jmb.jkurs1.aufgaben.aufgabe2;
+package ch.jmb.jkurs1.aufgaben.aufgaben2;
 import ch.java_akademie.tools17.allg.MyTools;
+import ch.jmb.jkurs1.aufgaben.aufgaben2.Prime;
 
-public class PrimesA {
+public class PrimeA {
 
     public static void main(String[] args) {
 
@@ -19,7 +20,7 @@ public class PrimesA {
             }
         }
 
-        System.out.printf("between %d and %d there are %d Primes. %n",
+        System.out.printf("between %,d and %,d there are %d Primes. %n",
                 MIN, MAX, z1);
     }
 

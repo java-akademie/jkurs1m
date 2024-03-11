@@ -1,6 +1,7 @@
+package ch.jmb.jkurs1.aufgaben.aufgaben1;
 
-package ch.jmb.jkurs1.aufgaben.aufgabe1;
 import ch.java_akademie.tools17.allg.MyTools;
+
 import java.util.Arrays;
 
 public class Kryptarithmus {

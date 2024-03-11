@@ -4,10 +4,8 @@ import ch.java_akademie.tools17.allg.MyTools;
 
 public class Uebung55 {
 
-    static int op;
-
     public static void main(String[] args) {
-        op = MyTools.getInteger
+        var op = MyTools.getInteger
                 ("op (1=add,2=sub,3=times,4=div,0=end) > ", 0, 5);
 
         while (op != 0) {
